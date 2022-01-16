@@ -1,10 +1,10 @@
 Package: bhandariprashant
-Title: What the Package Does (One Line, Title Case)
-Version: 0.0.0.9000
+Title: A personal package to reuse custom functions written for my PhD research and other explorations
+Version: 1.0
 Authors@R: 
-    person("First", "Last", , "first.last@example.com", role = c("aut", "cre"),
-           comment = c(ORCID = "YOUR-ORCID-ID"))
-Description: What the package does (one paragraph).
+    person("Prashant", "Bhandari", , "prashantbhandari@ufl.edu", role = c("aut", "cre")
+           )
+Description: bits and pieces of data wrangling, plot design choices, code blocks for genetic data analysis, etc
 License: GPL (>= 3)
 Encoding: UTF-8
 LazyData: true
